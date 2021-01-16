@@ -57,13 +57,13 @@ body{
     flex-direction: column;
     align-items: center;
     gap: .2rem;
-    margin-right: 25.5em;
+    margin-right: 10.5em;
     
 }
 
- .stars{
+.stars{
     background-color: var(--Light-Grayish-Magenta);
-    width: 33em;
+    width: 25.5em;
     margin: 0.5em;
     padding: 1.2em;
     padding-right: 3em;
@@ -111,8 +111,8 @@ body{
 }
 .card{
     background-color: var(--very-dark-magenta);
-    width: 24.1%;
-    height: 20em;
+    width: 26%;
+    height: 18em;
     border-radius: .75em;
     box-shadow: 1px 1px 1px black;
     color: var(--White); 
